@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bab7b1b-e833-4cbf-8461-7a152bb0c167" name="Default Changelist" comment="Seção 2, aula 17 - Introdução à formatação de Strings.">
-      <change afterPath="$PROJECT_DIR$/Secao 2/Aula17.py" afterDir="false" />
+    <list default="true" id="1bab7b1b-e833-4cbf-8461-7a152bb0c167" name="Default Changelist" comment="Seção 2, aula 17 - Desario prático.">
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Secao 2/Aula 17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Secao 2/Aula15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1inZ0X7Djaef6posgJCfGF0MD1y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
-  <component name="RunManager" selected="Python.Aula17">
+  <component name="RunManager" selected="Python.Aula19">
     <configuration name="Aula15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso de Python 3 do Bascio ao Avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,8 +80,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Aula18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso de Python 3 do Bascio ao Avancado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 2/Aula18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso de Python 3 do Bascio ao Avancado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 2/Aula19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula19" />
+        <item itemvalue="Python.Aula18" />
         <item itemvalue="Python.Aula17" />
         <item itemvalue="Python.Aula15" />
       </list>
@@ -103,12 +149,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602547742751</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seção 2, aula 17 - Desario prático.">
+      <created>1602548481024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602548481024</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seção 2, aula 17 - Introdução à formatação de Strings." />
-    <option name="LAST_COMMIT_MESSAGE" value="Seção 2, aula 17 - Introdução à formatação de Strings." />
+    <MESSAGE value="Seção 2, aula 17 - Desario prático." />
+    <option name="LAST_COMMIT_MESSAGE" value="Seção 2, aula 17 - Desario prático." />
   </component>
   <component name="WindowStateProjectService">
     <state x="801" y="124" key="FileChooserDialogImpl" timestamp="1602547306319">
@@ -119,29 +173,29 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="845" y="289" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1602545826483" />
-    <state width="932" height="179" key="GridCell.Tab.0.bottom" timestamp="1602548423719">
+    <state width="650" height="179" key="GridCell.Tab.0.bottom" timestamp="1602550138858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="932" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602548423719" />
-    <state width="932" height="179" key="GridCell.Tab.0.center" timestamp="1602548423719">
+    <state width="650" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
+    <state width="650" height="179" key="GridCell.Tab.0.center" timestamp="1602550138858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="932" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602548423719" />
-    <state width="932" height="179" key="GridCell.Tab.0.left" timestamp="1602548423719">
+    <state width="650" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
+    <state width="650" height="179" key="GridCell.Tab.0.left" timestamp="1602550138858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="932" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602548423719" />
-    <state width="932" height="179" key="GridCell.Tab.0.right" timestamp="1602548423719">
+    <state width="650" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
+    <state width="650" height="179" key="GridCell.Tab.0.right" timestamp="1602550138858">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="932" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602548423719" />
+    <state width="650" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
     <state x="368" y="14" key="SettingsEditor" timestamp="1602547104810">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="368" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602547104810" />
-    <state x="550" y="120" key="Vcs.Push.Dialog.v2" timestamp="1602547788253">
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2" timestamp="1602548493376">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="550" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602547788253" />
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602548493376" />
   </component>
 </project>
