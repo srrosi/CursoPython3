@@ -7,9 +7,20 @@
 #     num2 = 5
 #     print(num2+num2)
 
-if False:
-    print('Verdadeiro')
-elif True:
-    print('Agora sim, é verdadeiro')
+# if False:
+#     print('Verdadeiro')
+# elif True:
+#     print('Agora sim, é verdadeiro')
+# else:
+#     print('Não é verdadeiro')
+
+nome = 'João'
+idade = """40"""
+peso = 50.5
+e_maior = True
+idade = int(idade)
+
+if idade > 18:
+    print(f'{nome} é maior de idade.')
 else:
-    print('Não é verdadeiro')
+    print(f'{nome} NÃO é maior de idade.')

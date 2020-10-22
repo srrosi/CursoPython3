@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bab7b1b-e833-4cbf-8461-7a152bb0c167" name="Default Changelist" comment="Seção 2, aula 17 - Desario prático.">
-      <change afterPath="$PROJECT_DIR$/Secao 2/Aula18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao 2/Aula19.py" afterDir="false" />
+    <list default="true" id="1bab7b1b-e833-4cbf-8461-7a152bb0c167" name="Default Changelist" comment="Seção 2, aula 18 - Operadores lógicos - If elif e else.">
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 2/Aula44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao 3/Aula57.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Secao 2/Aula19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Secao 2/Aula19.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +74,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Aula19">
-    <configuration name="Aula15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula57">
+    <configuration name="Aula53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso de Python 3 do Bascio ao Avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Udemy\Curso de Python 3 do Bascio ao Avancado\Secao 2\Aula15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 3/Aula53.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula54" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso de Python 3 do Bascio ao Avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 2/Aula17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 3/Aula54.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso de Python 3 do Bascio ao Avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 2/Aula18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 3/Aula55.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula56" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso de Python 3 do Bascio ao Avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +149,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 2/Aula19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 3/Aula56.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula57" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso de Python 3 do Bascio ao Avancado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao 3/Aula57.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,10 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula19" />
-        <item itemvalue="Python.Aula18" />
-        <item itemvalue="Python.Aula17" />
-        <item itemvalue="Python.Aula15" />
+        <item itemvalue="Python.Aula57" />
+        <item itemvalue="Python.Aula56" />
+        <item itemvalue="Python.Aula55" />
+        <item itemvalue="Python.Aula54" />
+        <item itemvalue="Python.Aula53" />
       </list>
     </recent_temporary>
   </component>
@@ -156,15 +218,39 @@
       <option name="project" value="LOCAL" />
       <updated>1602548481024</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Seção 2, aula 18 - Operadores lógicos - If elif e else.">
+      <created>1602550900566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602550900566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seção 2, aula 17 - Introdução à formatação de Strings." />
     <MESSAGE value="Seção 2, aula 17 - Desario prático." />
-    <option name="LAST_COMMIT_MESSAGE" value="Seção 2, aula 17 - Desario prático." />
+    <MESSAGE value="Seção 2, aula 18 - Operadores lógicos - If elif e else." />
+    <option name="LAST_COMMIT_MESSAGE" value="Seção 2, aula 18 - Operadores lógicos - If elif e else." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="817" y="232" width="448" height="274" key="#Notifications" timestamp="1602799574044">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="817" y="232" width="448" height="274" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1602799574044" />
     <state x="801" y="124" key="FileChooserDialogImpl" timestamp="1602547306319">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -173,29 +259,45 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="845" y="289" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1602545826483" />
-    <state width="650" height="179" key="GridCell.Tab.0.bottom" timestamp="1602550138858">
+    <state width="650" height="165" key="GridCell.Tab.0.bottom" timestamp="1603389536239">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="650" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
-    <state width="650" height="179" key="GridCell.Tab.0.center" timestamp="1602550138858">
+    <state width="650" height="165" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603389536239" />
+    <state width="650" height="165" key="GridCell.Tab.0.center" timestamp="1603389536239">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="650" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
-    <state width="650" height="179" key="GridCell.Tab.0.left" timestamp="1602550138858">
+    <state width="650" height="165" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1603389536239" />
+    <state width="650" height="165" key="GridCell.Tab.0.left" timestamp="1603389536239">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="650" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
-    <state width="650" height="179" key="GridCell.Tab.0.right" timestamp="1602550138858">
+    <state width="650" height="165" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1603389536239" />
+    <state width="650" height="165" key="GridCell.Tab.0.right" timestamp="1603389536239">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="650" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602550138858" />
-    <state x="368" y="14" key="SettingsEditor" timestamp="1602547104810">
+    <state width="650" height="165" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1603389536239" />
+    <state width="650" height="225" key="GridCell.Tab.1.bottom" timestamp="1603387068996">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="368" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602547104810" />
-    <state x="550" y="120" key="Vcs.Push.Dialog.v2" timestamp="1602548493376">
+    <state width="650" height="225" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603387068996" />
+    <state width="650" height="225" key="GridCell.Tab.1.center" timestamp="1603387068996">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="550" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602548493376" />
+    <state width="650" height="225" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1603387068996" />
+    <state width="650" height="225" key="GridCell.Tab.1.left" timestamp="1603387068996">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="650" height="225" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1603387068996" />
+    <state width="650" height="225" key="GridCell.Tab.1.right" timestamp="1603387068996">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="650" height="225" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1603387068996" />
+    <state x="368" y="14" key="SettingsEditor" timestamp="1603386280409">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="368" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1603386280409" />
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2" timestamp="1602550915235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="550" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602550915235" />
   </component>
 </project>
